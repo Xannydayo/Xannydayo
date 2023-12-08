@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yoga Viveka</h1>
 <h3 align="center">A frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="xannydayo" /> </p>
+<p align="left"> <video playsinline autoplay muted loop src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="xannydayo" /> </p>
 
 - 🔭 I’m currently working on **freelance**
 
