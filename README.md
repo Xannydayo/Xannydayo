@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **reactjs and nextjs**
 
-- 👨‍💻 All of my projects are available at [https://xannydayo.github.io/portoku.github.io/](https://xannydayo.github.io/portoku.github.io/)
+- 👨‍💻 All of my projects are available at [https://portofolio-yogaviveka.netlify.app/](https://portofolio-yogaviveka.netlify.app/)
 
 - 💬 Ask me about **javascript**
 
