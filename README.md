@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FOshiNoKo%2Fcomments%2F12ks05a%2Fai_vibing_gif_from_the_official_music_video_of%2F&psig=AOvVaw2byhDd_EWyXBqvO-gfwVEg&ust=1711087258037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCM2PPWhIUDFQAAAAAdAAAAABAW)
+[![MasterHead](https://tenor.com/view/ai-hoshino-oshi-no-ko-onk-anime-ai-oshi-no-ko-gif-16884923727833954574)
 
 <h3 align="center">A frontend developer from Indonesia</h3>
 
