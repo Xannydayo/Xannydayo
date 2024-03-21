@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/ai-hoshino-oshi-no-ko-onk-anime-ai-oshi-no-ko-gif-16884923727833954574)
+[![MasterHead](https://tenor.com/view/ai-hoshino-oshi-no-ko-onk-anime-ai-oshi-no-ko-gif-16884923727833954574.gif)
 
 <h3 align="center">A frontend developer from Indonesia</h3>
 
