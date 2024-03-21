@@ -1,5 +1,5 @@
-[![MasterHead]<div class="tenor-gif-embed" data-postid="16884923727833954574" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/ai-hoshino-oshi-no-ko-onk-anime-ai-oshi-no-ko-gif-16884923727833954574">Ai Hoshino Oshi No Ko GIF</a>from <a href="https://tenor.com/search/ai+hoshino-gifs">Ai Hoshino GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<h1 align="center">Hi 👋, I'm Yoga Viveka</h1>
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FOshiNoKo%2Fcomments%2F12ks05a%2Fai_vibing_gif_from_the_official_music_video_of%2F&psig=AOvVaw2byhDd_EWyXBqvO-gfwVEg&ust=1711087258037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCM2PPWhIUDFQAAAAAdAAAAABAW)
+
 <h3 align="center">A frontend developer from Indonesia</h3>
 
 <p align="left"> <video playsinline autoplay muted loop src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="xannydayo" /> </p>
