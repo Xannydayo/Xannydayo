@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io](https://images.app.goo.gl/tj7bVWvqSnwLPA2h9))
+[![MasterHead]<div class="tenor-gif-embed" data-postid="16884923727833954574" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/ai-hoshino-oshi-no-ko-onk-anime-ai-oshi-no-ko-gif-16884923727833954574">Ai Hoshino Oshi No Ko GIF</a>from <a href="https://tenor.com/search/ai+hoshino-gifs">Ai Hoshino GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm Yoga Viveka</h1>
 <h3 align="center">A frontend developer from Indonesia</h3>
 
