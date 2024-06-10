@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Xannydayo/Xannydayo/assets/142080646/4e6144f7-b5be-46a3-8c12-b679f99ec8ec)]
+![ezgif-2-4e2ae1c722](https://github.com/Xannydayo/Xannydayo/assets/142080646/66c25955-b0dd-4279-9b09-2eddc7fe4185)
 <h3 align="center">A frontend developer from Indonesia</h3>
 
 <p align="left"> <video playsinline autoplay muted loop src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="xannydayo" /> </p>
