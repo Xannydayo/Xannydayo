@@ -26,7 +26,10 @@
 
 [![](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,aws,azure,windows,ubuntu,react,nextjs,expressjs,firebase,tailwind,vercel&perline=9)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xannydayo&show_icons=true&locale=en&layout=compact" alt="xannydayo" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xannydayo&layout=donut&theme=holi)
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xannydayo&show_icons=true&locale=en" alt="xannydayo" /></p>
 
