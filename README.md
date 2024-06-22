@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,aws,azure,windows,ubuntu,react,nextjs,expressjs,firebase,tailwind,vercel&perline=9)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html,css,nodejs,windows,ubuntu,react,nextjs,tailwind,bootstrap,debian,figma,git,github,kali,linux,js,vercel&perline=9)](https://skillicons.dev)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xannydayo&layout=donut&theme=holi)
