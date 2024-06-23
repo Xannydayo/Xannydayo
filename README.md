@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **reactjs and nextjs**
 
-- 👨‍💻 All of my projects are available at [https://portofolio-yogaviveka.netlify.app/](https://portfolio-yogaviveka.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-yogaviveka.vercel.app/](https://portfolio-yogaviveka.vercel.app/)
 
 - 💬 Ask me about **javascript**
 
