@@ -1,4 +1,4 @@
-![logo](https://github.com/Xannydayo/Xannydayo/blob/main/ezgif-2-4e2ae1c722.gif)
+![logo](https://github.com/Xannydayo/Xannydayo/blob/main/09121-ezgif.com-video-to-gif-converter%20(1).gif)
 
 <h3 align="center">A frontend developer from Indonesia</h3>
 
