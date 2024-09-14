@@ -1,20 +1,22 @@
-![logo](https://github.com/Xannydayo/Xannydayo/blob/main/09121-ezgif.com-video-to-gif-converter%20(1).gif)
+<p align="center">
+  <img src="https://github.com/Xannydayo/Xannydayo/blob/main/09121-ezgif.com-video-to-gif-converter%20(1).gif" alt="logo" width="1000vh" />
+</p>
 
-<h3 align="center">A frontend developer from Indonesia</h3>
 
-<p align="left"> <video playsinline autoplay muted loop src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="xannydayo" /> </p>
+<h3>A frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **freelance**
+<p align="center">
+  <video playsinline autoplay muted loop src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="xannydayo" />
+</p>
 
-- 🌱 I’m currently learning **reactjs and nextjs**
 
+
+- 🔭 I’m currently working on freelance web development.
+- 🌱 I’m currently learning **React.js, Next.js, and cybersecurity.**
 - 👨‍💻 All of my projects are available at [https://portfolio-yogaviveka.vercel.app/](https://portfolio-yogaviveka.vercel.app/)
+- 💬  Feel free to ask me about **JavaScript and basic cybersecurity.**
+- 📫 You can reach me at **yogaviveka1234@gmail.com.**
 
-- 💬 Ask me about **javascript**
-
-- 📫 How to reach me **yogaviveka1234@gmail.com**
-
-- ⚡ Fun fact **Nothing special abt me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
