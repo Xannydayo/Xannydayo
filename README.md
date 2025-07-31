@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on freelance web development.
 - 🌱 I’m currently learning **React.js, Next.js, and cybersecurity.**
-- 👨‍💻 All of my projects are available at [https://portfolio-yogaviveka.vercel.app/](https://portfolio-yogaviveka.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-yogaviveka.vercel.app/](https://portfolio-yogaaviveka.vercel.app/)
 - 💬  Feel free to ask me about **JavaScript and basic cybersecurity.**
 - 📫 You can reach me at **yogaviveka1234@gmail.com.**
 
